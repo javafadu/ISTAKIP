@@ -3,14 +3,14 @@
 ob_start();
 
 /* Email address used with your admin account */
-$AdminEmail = "info@aswagroup.com";	
+$AdminEmail = "*****@aswagroup.com";	
 
 /* Database Hostname (usually localhost) */
 $hostname = "mysql.aswagroup.com";			
 /* Username for database */
 $user = "istakip_yonetici";				
 /* Password for database */
-$pass = "Bolu1414";				
+$pass = "*********";				
 
 /* Database name */
 $database = "istakip";		
